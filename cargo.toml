@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "multiples_of_3_or_5",
+    "even_fibonacci_numbers",
+    "largest_prime_factor",
+    "largest_palindrome_product",
+    "sum_square_difference",
+]
